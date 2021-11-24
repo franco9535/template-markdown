@@ -1,48 +1,33 @@
-# (project name)
+**FRANCO'S PROFILE**
 
-<!-- describe your project -->
+---
 
-## Getting Started
+Are you a hiring a software engineer or changing job, Franco is here to give the
+solutions in your company. I can be responsible for the coding, design and
+layout of a website according to a company’s specifications.
 
-<!-- a guide to using this repository -->
+**School Of Coding I Attended**
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+| School                   | Programme                       |
+| ------------------------ | ------------------------------- |
+| Jomo Kenyatta University | Business Information Technology |
+| italanta Academy         | Software and Web development    |
 
-## Code Quality Checks
+[For more info. about italanta](https://italanta.net/)
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+Below are the images
+![class image](https://scontent.fmba5-1.fna.fbcdn.net/v/t39.30808-6/256046810_2327716570697804_3617513495426170089_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEhsw9LID7bO7PRIQnKDJ-Z6h9BeGNirX3qH0F4Y2KtfZhyvh5adyT2u9QXqVry72yh1JVKcbF46Cfm4A9QMa4u&_nc_ohc=FD7TwOjlyg4AX9ruvs4&_nc_oc=AQmp6vq3dv5XNeOgUVpoJMVE_Rsz4gs04n0VArTbTwcS3_PlU2halJmouYxB3mWRNFg&_nc_ht=scontent.fmba5-1.fna&oh=291305dae6044ea57809d94aa013b326&oe=61A2F7C2)
 
-## Continuous Integration (CI)
+The whole program have three Phase
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+<details><summary>CLICK TO LEARN THE PHASE</summary>
+<p>
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+#### Local Presence, Global Resources!
 
-## Repo Setup
+    1.Discover,
+    2.Develop,
+    3.Deploy
 
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+</p>
+</details>
