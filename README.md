@@ -25,8 +25,8 @@ The whole program have three Phase
 
 #### Local Presence, Global Resources!
 
-    1.Discover,
-    2.Develop,
+    1.Discover
+    2.Develop
     3.Deploy
 
 </p>
